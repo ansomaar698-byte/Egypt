@@ -16,7 +16,7 @@ a{
 }
 nav ul{
     background-color: burlywood;
-    border: 2px dashed seashell;
+    border: 2px double seashell;
     border-radius: 10px;
     padding: 20px;
 }
